@@ -1,0 +1,10 @@
+.main-img {
+    position: absolute;
+    top: 32px;
+    left: 380px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
